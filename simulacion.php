@@ -12,4 +12,6 @@ function adiosMundoAlejo () {
 
 echo adiosMundoAlejo ();
 
+echo "Puto el que lee";
+
 ?>
