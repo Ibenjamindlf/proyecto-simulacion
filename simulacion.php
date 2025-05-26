@@ -22,4 +22,6 @@ function probandoRama(){
     return $var1;
 }
 
+echo "no te pares en main";
+
 ?>
