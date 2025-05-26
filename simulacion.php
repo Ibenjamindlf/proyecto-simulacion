@@ -2,7 +2,10 @@
 
 function holamundoBenja(){
     $var = "hola mundo";
-    return $var;
+    $numero = 1;
+    $numero2 = 2;
+    $numerototal = $numero+$numero2;
+    return $numerototal;
 }
 echo holamundoBenja();
 
@@ -18,4 +21,5 @@ function probandoRama(){
     $var1 = "Estamos probando ramas";
     return $var1;
 }
+
 ?>
