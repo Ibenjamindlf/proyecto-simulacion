@@ -6,4 +6,10 @@ function holamundoBenja(){
 }
 echo holamundoBenja();
 
+function adiosMundoAlejo () {
+    return "Adiós mundo";
+}
+
+echo adiosMundoAlejo ();
+
 ?>
