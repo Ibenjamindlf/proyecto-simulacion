@@ -12,4 +12,8 @@ function adiosMundoAlejo () {
 
 echo adiosMundoAlejo ();
 
+function probandoRama(){
+    $var1 = "Estamos probando ramas";
+    return $var1;
+}
 ?>
