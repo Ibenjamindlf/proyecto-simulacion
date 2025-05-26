@@ -7,7 +7,7 @@ function holamundoBenja(){
 echo holamundoBenja();
 
 function adiosMundoAlejo () {
-    return "Adiós mundo";
+    return "Adiós mundo con modificación";
 }
 
 echo adiosMundoAlejo ();
